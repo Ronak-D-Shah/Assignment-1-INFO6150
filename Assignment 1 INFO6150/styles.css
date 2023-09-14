@@ -6,12 +6,12 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+  background-color: #fff;
   color: #333;
 }
 
 header {
-  background-color: #000;
+  background-color: #114b5f;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -58,9 +58,9 @@ nav a:hover {
 
 section {
   padding: 20px;
-  background-color: #fff;
-  margin: 20px;
-  border-radius: 5px;
+  background-color: #faf3dd;
+  margin: 20px 120px;
+  border-radius: 15px;
 }
 
 section h2 {
@@ -76,7 +76,8 @@ section p {
 
 img {
   margin-top: 10px;
-  width: 30%;
+  width: 50%;
+  padding: 30px;
 }
 
 table {
@@ -141,7 +142,7 @@ button:hover {
 }
 
 footer {
-  background-color: #333;
+  background-color: #114b5f;
   color: #fff;
   text-align: center;
   padding: 30px;
